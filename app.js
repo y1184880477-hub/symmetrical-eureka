@@ -9,7 +9,7 @@ const ACCOUNTS = process.env.ACCOUNTS || `
 [
     {
         "username": "y1184880477@gmail.com", 
-        "password": "Yx123234!"  
+        "password": "Yx123234"  
     }
 ]`; // 双引号内填写你的邮箱和密码 
 
